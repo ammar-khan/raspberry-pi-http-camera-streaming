@@ -1,19 +1,17 @@
 ==================================================================
-Dlib (Digital Library) Face Detection
+Raspberry Pi, HTTP Camera Streaming
 ==================================================================
 
 Prerequisite(s):
 ----------------
 
-- Python 3.5>
+- Python =>3.5
 - pip
 - numpy
 - Open CV
-- dlib
 - imutils
-- PIL
 
-.. _Prerequisites Installation Guide: https://domain.invalid/
+.. _Prerequisites Installation Guide: https://github.com/ammar-khan/raspberry-pi-3-model-b-plus
 
 `Prerequisites Installation Guide`_
 
@@ -27,7 +25,7 @@ Refer to: ``src/common/package/config``
 
 Execute:
 --------
->>> python3.5 dlib-main.py
+>>> python3.5 main.py
 
 Streaming:
 ----------
